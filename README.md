@@ -19,7 +19,7 @@
 Type a command in Claude Code and get instant, actionable sales intelligence:
 
 ```
-> /sales prospect https://acme.com
+> /sales prospect https://rippling.com
 
 Launching 5 parallel agents...
   ✓ Company Research & Firmographics    — Fit Score: 82/100
