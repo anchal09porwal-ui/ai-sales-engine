@@ -2,7 +2,80 @@
 
 > A comprehensive playbook for handling sales objections.
 > Customize [PLACEHOLDER] fields for your product and market.
-> Use the LAER framework: Listen, Acknowledge, Explore, Respond.
+> Two frameworks available: **LAER** (structured) and **ACE** (conversational).
+
+---
+
+## Framework 1: LAER
+
+| Step | Action |
+|---|---|
+| **Listen** | Let them finish. Don't interrupt. Take notes. |
+| **Acknowledge** | Validate their concern. Never dismiss or argue. |
+| **Explore** | Ask clarifying questions to understand the real issue. |
+| **Respond** | Address with proof, story, or reframe. Then redirect. |
+
+---
+
+## Framework 2: ACE + Socratic Method
+
+### ACE Framework
+
+**Accept**
+Acknowledge the objection without resistance. This lowers defensiveness and makes the prospect feel heard. Don't fight it, don't minimize it — just receive it.
+
+**Clarify**
+Dig deeper into what they actually mean. Most objections are vague, and clarification uncovers the real issue hiding behind the surface words. Ask: *"What do you mean by that?"* or *"Help me understand what's behind that."*
+
+**Explore**
+Remove the objection temporarily and explore the underlying problem. This keeps the conversation alive and focused on value, not on the objection itself. Ask: *"Setting that aside for a moment — what problem were you originally trying to solve?"*
+
+**Redirect**
+Summarize and reframe what you've learned. Shift the conversation away from the surface objection to the real issue. This is where you regain control of the narrative.
+
+---
+
+### The Socratic Approach
+
+The idea comes from Socrates and is simple: **people trust conclusions they arrive at themselves.**
+
+Instead of telling them what to do, guide them through questions so they reach the conclusion on their own. This creates stronger commitment and reduces resistance.
+
+The goal is never to win the argument — it's to help them talk themselves into the next step.
+
+**Core Socratic questions to keep in your back pocket:**
+- "What would have to be true for this to make sense for you?"
+- "What would you lose if you didn't solve this problem?"
+- "How are you solving this today, and what does that cost you?"
+- "If budget/time/approval weren't a factor, would this be a fit?"
+
+---
+
+### Common Objections — ACE + Socratic Responses
+
+**"Not interested"**
+- If early in the call: *"What are you not interested in? I haven't said anything yet."*
+- If later in the call: *"What specifically didn't resonate with you?"*
+- Why it works: Forces them to articulate a specific concern, which you can then address.
+
+**"I'm busy"**
+- Say: *"Usually when people say that, they want me off the phone. Is that the case?"*
+- Why it works: Pattern interrupt. It's honest and disarming — and the answer tells you exactly where you stand.
+
+**"No budget"**
+- Respond casually: *"If I only called people with budget, I'd make zero calls."* Then continue naturally.
+- Follow up: *"Help me understand — is there no budget for this category, or no budget right now?"*
+- Why it works: Removes the pressure and reframes budget as a timing issue, not a dead end.
+
+**"We already use someone"**
+- Say: *"I'm not trying to replace them. I just want to be an option if things change or if there's a gap they're not covering."*
+- Follow up: *"Out of curiosity — is there anything about your current setup you'd change if you could?"*
+- Why it works: Removes threat, opens a door without pressure.
+
+**"Send me an email"**
+- Do NOT just agree and hang up.
+- Ask: *"I want to make sure it's actually useful — what would you want to see in that email?"*
+- Why it works: Now they're engaging. They've told you what matters to them, and you've turned a brush-off into a mini-discovery.
 
 ---
 
@@ -268,11 +341,13 @@
 
 ---
 
-## Quick Reference: Objection Response Framework (LAER)
+## Quick Reference: When to Use Which Framework
 
-| Step          | Action                                                   |
-| ------------- | -------------------------------------------------------- |
-| **Listen**    | Let them finish. Don't interrupt. Take notes.            |
-| **Acknowledge** | Validate their concern. Never dismiss or argue.        |
-| **Explore**   | Ask clarifying questions to understand the real issue.   |
-| **Respond**   | Address with proof, story, or reframe. Then redirect.    |
+| Situation | Best Framework |
+|---|---|
+| Formal discovery or demo call | LAER |
+| Cold call — first 60 seconds | ACE + Socratic |
+| Prospect sounds annoyed or rushed | ACE pattern interrupt |
+| Objection is vague ("not interested") | Socratic clarifying question |
+| Objection has a logical structure (price, contract) | LAER with proof points |
+| Prospect keeps stalling | Socratic ("what would need to be true...") |
