@@ -31,7 +31,7 @@ Launching 5 parallel agents...
 ┌─────────────────────────────────────────────────┐
 │  PROSPECT SCORE                                 │
 │                                                 │
-│  ██████████████████████████████████░░░░  85/100  │
+│  ██████████████████████████████████░░░░  85/100 │
 │                                                 │
 │  Grade: A  —  Strong Prospect                   │
 │  Action: Invest significant effort              │
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ╚══════════════════════════════════════════════════════════╝
 
 Installing skills...
-  ✓ sales (orchestrator)
+  ✓ sales
   ✓ sales-prospect
   ✓ sales-research
   ✓ sales-qualify
@@ -144,8 +144,7 @@ The system uses a three-layer architecture — one orchestrator skill routes com
 
 ```
                          ┌──────────────────────────┐
-                         │     /sales prospect       │
-                         │      (Orchestrator)       │
+                         │     /sales prospect      │
                          └────────────┬─────────────┘
                                       │
                     ┌─────────────────┼─────────────────┐
@@ -188,7 +187,7 @@ The system uses a three-layer architecture — one orchestrator skill routes com
 Skills automatically detect and build on each other's output:
 
 ```
-/sales prospect  ──►  PROSPECT-ANALYSIS.md
+/sales prospect  ──►  PROSPECT.md
                             │
        ┌────────────────────┼────────────────────┐
        ▼                    ▼                     ▼
@@ -240,10 +239,10 @@ Every prospect gets a **weighted composite score (0-100)** calculated from 5 dim
   Score    Grade    Action
  ───────────────────────────────────────────────────────────
   90-100    A+      🔥  Hot Lead — prioritize immediately
-  75-89     A       ✅  Strong Prospect — invest significant effort
-  60-74     B       📊  Qualified Lead — pursue with standard approach
-  40-59     C       🔄  Lukewarm — nurture, don't hard sell
-   0-39     D       ⏸️   Poor Fit — deprioritize or disqualify
+  75-89     A       Strong Prospect — invest significant effort
+  60-74     B       Qualified Lead — pursue with standard approach
+  40-59     C       Lukewarm — nurture, don't hard sell
+   0-39     D       ⏸️Poor Fit — deprioritize or disqualify
 ```
 
 ### Qualification Frameworks
