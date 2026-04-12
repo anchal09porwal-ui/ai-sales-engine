@@ -380,7 +380,6 @@ ai-sales-team-claude/
 │   ├── sales-outreach/SKILL.md           Cold outreach email sequences
 │   ├── sales-followup/SKILL.md           Follow-up email generation
 │   ├── sales-prep/SKILL.md               Meeting preparation brief
-│   ├── sales-proposal/SKILL.md           Client proposal generator
 │   ├── sales-objections/SKILL.md         Objection handling playbook
 │   ├── sales-icp/SKILL.md                Ideal Customer Profile builder
 │   ├── sales-competitors/SKILL.md        Competitive intelligence
