@@ -238,11 +238,11 @@ Every prospect gets a **weighted composite score (0-100)** calculated from 5 dim
 ```
   Score    Grade    Action
  ───────────────────────────────────────────────────────────
-  90-100    A+      🔥  Hot Lead — prioritize immediately
+  90-100    A+      Hot Lead — prioritize immediately
   75-89     A       Strong Prospect — invest significant effort
   60-74     B       Qualified Lead — pursue with standard approach
   40-59     C       Lukewarm — nurture, don't hard sell
-   0-39     D       ⏸️Poor Fit — deprioritize or disqualify
+   0-39     D       Poor Fit — deprioritize or disqualify
 ```
 
 ### Qualification Frameworks
