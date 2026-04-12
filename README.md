@@ -502,6 +502,10 @@ Removes all skills, agents, scripts, and templates from `~/.claude/`. Python pac
 <p align="center">
   <strong>MIT License</strong> · Copyright (c) 2026 Anchal Porwal
   <br><br>
+
+  ## Acknowledgments
+  This project is built on an open-source Claude Code framework. Original creator: Zubair Trabzada.  I've customized this for SDR prospecting workflows to understand how AI can accelerate sales research.
+  
   <a href="https://github.com/anchal09porwal-ui/ai-sales-engine/issues">Report Bug</a> ·
   <a href="https://github.com/anchal09porwal-ui/ai-sales-engine/issues">Request Feature</a>
 </p>
