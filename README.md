@@ -318,7 +318,6 @@ Analyzing notion.so for lead qualification...
   │ Need:      ██████████████████░░ 20  │
   │ Timeline:  ████████████████░░░░ 18  │
   └────────────────────────────────────┘
-  MEDDIC Completeness: 72%
 
 Action: Schedule discovery call — high-priority prospect.
 Output: LEAD-QUALIFICATION.md
@@ -342,27 +341,6 @@ Generating outreach sequence for Linear...
 
 Output: OUTREACH-SEQUENCE.md
 ```
-
-### Meeting Prep
-
-```
-> /sales prep https://datadog.com
-
-Generating meeting brief for datadog.com...
-  ┌────────────────────────────────────────────┐
-  │  MEETING PREP BRIEF                        │
-  │                                            │
-  │  Company:       Datadog                    │
-  │  Attendees:     3 profiled                 │
-  │  Talking Points: 7 prepared                │
-  │  Discovery Qs:  10 ready                   │
-  │  Objections:    5 with responses           │
-  │  Cheat Sheet:   1 page                     │
-  └────────────────────────────────────────────┘
-
-Output: MEETING-PREP.md
-```
-
 ---
 
 ## Project Structure
@@ -469,20 +447,6 @@ ai-sales-team-claude/
 </td>
 </tr>
 </table>
-
----
-
-## Requirements
-
-| Requirement | Status | Notes |
-|:------------|:------:|:------|
-| **Claude Code** | Required | [Install Claude Code](https://docs.anthropic.com/en/docs/claude-code) |
-| **Python 3.8+** | Optional | For scripts and PDF generation |
-| **reportlab** | Optional | `pip install reportlab` — PDF reports |
-| **beautifulsoup4** | Optional | `pip install beautifulsoup4` — enhanced parsing |
-| **requests** | Optional | `pip install requests` — fallback URL fetching |
-
----
 
 ## Uninstall
 
